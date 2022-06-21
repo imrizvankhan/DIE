@@ -21,13 +21,27 @@ Dataset-Link for existing dagtasets are given below.
 1- The whole  training dataset of UXOV along with test images, is available at the following google drives link: https://drive.google.com/drive/u/1/folders/1uj8MGHWtRMbeuh8VZemmIv-wqUqVNdo6
 
 2- Lol dataset is publicly available
-3- New-DIE dataset test + GT are in the folder above with results and comparison methods, where the dataset link for training DIE-data images will be available at google-drive link.
+3- New-DIE dataset test + GT are in the folder above with results and comparison methods, where the dataset link for training DIE-data images is be available at google-drive link. https://drive.google.com/drive/u/0/folders/1JV20Cnes_taySBITbjV6DX0YbvB_LpV0
 
 
 
-<image src= "FinalDatasetsample.png" width= 800>
+<image src= "/Results/net.png" height = 400 >
  
-  <image src= "onlymodellow.png" width= 800>
-  
+  <image src= "/Results/model.png" width= 800>
    
-  <image src= "DepthofresidueMap.png" width= 500>
+  <image src= "/Results/dc-map.png" width= 800>
+   
+  <image src= "/Results/psnr-ssim.png" width= 800>
+        <image src= "/Results/modelandcone.png" width= 800>      
+     <image src= "/Results/RI.png" width= 800>
+ <image src= "/Results/cubeplant.png" width= 800>
+      
+ <image src= "/Results/I-operation.png" width= 800>
+  
+     <image src= "/Results/psnr-ssim.png" width= 400>
+ <image src= "/Results/Table1.png" width= 800>
+     <image src= "/Results/table2.png" width= 800>
+           <image src= "/Results/Dataset.png" height = 400 width = 550>
+      <image src= "/Results/die-new.png" width= 800>
+  
+  
